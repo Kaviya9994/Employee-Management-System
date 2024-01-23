@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "ram",
+      "email": "ram@gmail.com",
+      "address": "Chennai",
+      "phoneNumber": "9875342179"
+    },
+    {
+      "id": "2",
+      "username": "sam",
+      "email": "sam@gmail.com",
+      "address": "Chen",
+      "phoneNumber": "9808765434"
+    },
+    {
+      "id": "6",
+      "username": "JOHN",
+      "email": "john@gmail.com",
+      "salary": "45,000",
+      "address": "Uk",
+      "phoneNumber": "343546546"
+    }
+  ]
+}
